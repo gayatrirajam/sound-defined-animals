@@ -1,0 +1,14 @@
+body{
+    background:scroll radial-gradient(greenyellow 0%, orange, red 100%);
+    text-align: center;
+    font-family: 'Kalam', cursive;
+}
+
+.copy-right-footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: radial-gradient(rgb(76, 27, 94) 0%, blue, green, greenyellow, orange, red 100%);
+    line-height: 27;
+    color: white;
+  }
